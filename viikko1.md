@@ -1,7 +1,5 @@
-# SATU MUSAKKA
-
-49-vuotias nainen Ylitorniolta.
-
+# SATU MUSAKKA  
+49-vuotias pitkän linjan terveydenhuollon ammattilainen.  
 ## Kiinnostus ja osaaminen
 
 - Terveydenhuollon tietojärjestelmät
