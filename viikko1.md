@@ -1,7 +1,9 @@
 # SATU MUSAKKA  
-49-vuotias pitkän linjan terveydenhuollon ammattilainen.  
+**49-vuotias pitkän linjan terveydenhuollon ammattilainen ja työnarkomaani**
+<br>
+Olen tehnyt sairaanhoitajan työtä yli 20 vuotta. Olin **sairaanhoitajana** vastasyntyneiden teho-osastolla Kuopion yliopistollisessa sairaalassa. Muuutettuani Ylitorniolle Lappiin tein töitä myös perusterveydehuollosa vuodeosastolla ja vastaanotolla. Minua on aina kiinnostanut teknologia ja sen tuominen osaksi terveydenhuollon työtä ja avuksi työhön. Olin **tehohoidon tietojärjestelmän pääkäyttäjänä** sen käyttöönotosta lähtien. Teimme järjestelmän alkukonfiguraation yhdessä kahden kollegan kanssa. Tämän jälkeen olin järjestelmän ylläpidossa pääkäyttäjän tehtävissä.<br><br> Muutettuani tein yhtä aikaa etätyönä edelleen pääkäyttäjän töitä Kuopioon sairaanhoitajan työtä perustervydenhuollon yksiköissä. Sain pian vastuulleni myös Ylitorniolla potilastietojärjestelmän vastuukäyttäjän tehtävän. Vuoden 2022 alussa siellä tuli käyttöön myös uusi potilastietojärjestelmä, jonka pääkäyttäjä vastuu oli minulla ja myös **kouluttajan** tehtävät käyttöönotossa koko Länsi-Pohjan alueella.<br><br> Olin lyhyen jakson myös Lapin hyvinvointialueella **suunnittelijan* tehtävässä, jossa vastuullani oli terveydenhuollon ammattilaisen digitaaliset työkalut, niiden käyttöönottoon ja ylläpitoon liittyviä tehtäviä. Vuoden 2023 keväällä löysin entisen työnantajani työpaikkailmoituksen, jota en voinut olla hakematta. Minut valittiin **projektipäälliköksi** Pohjois-Savon hyvinvointialueen yhtenäisen potilastietojärjestelmän käyttöönottoon. Minun vastuullani on ison käyttöönottoprojektin hyvinvointialueen tehtävät. Käyttöönottoprojektia tehdään yhdessä Istekin kanssa. Hankinta on myös kahden hyvinvointialueen yhteinen (Pirha), joten käyttöönotot etenevät tiukasti yhteistyössä.<br><br> Olen aloittanut tieto- ja viestintätekniikan opinnot Centriassa jo 2020, mutta opinnot ovat tiukan työskentelyn takia olleet vain mahdollisuuksien mukaan edistettävissä. Tavoitteana on kuitenkin valmistua insinööriksi ja saada myös todistettua osaamista myös siitä, mikä on aina ollut kinnostunksen kohde.<br><br>
 ## Kiinnostus ja osaaminen
-
+<br>
 - Terveydenhuollon tietojärjestelmät
 - Terveydenhuollon kehittäminen
 - Digitalisaatio
