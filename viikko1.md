@@ -6,5 +6,4 @@ Olen 49-vuotias. Olen tehnyt sairaanhoitajan työtä yli 20 vuotta. Olin **saira
 - Terveydenhuollon tietojärjestelmät<br>
 - Terveydenhuollon kehittäminen<br>
 - Digitalisaatio<br>
-- Tekoäly terveydenhuollossa<br>
-<br>[LinkedIn](https://www.linkedin.com/in/satu-musakka-1535291a2/)
+- Tekoäly terveydenhuollossa<br><br>### 🔗 [LinkedIn-profiilini](https://www.linkedin.com/in/satu-musakka-1535291a2/)
